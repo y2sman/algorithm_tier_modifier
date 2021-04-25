@@ -1,5 +1,5 @@
 # 나만의 'solved.ac' 티어 정리기
-https://github.com/y2sman/algorithm_solve 에서 solved.ac의 티어 기준으로 정리된 백준 문제들의 티어 변경을 확인하고 올바른 폴더로 재배치 해주는 나만의 'solved.ac' 티어 정리기
+https://github.com/y2sman/algorithm_solve 에서 solved.ac의 티어 기준으로 정리된 백준 문제들의 티어 변경을 확인하고 올바른 폴더로 재배치 해주는 나만의 'solved.ac' 티어 정리기. 블로그에도 작성했지만... <b>"무지성 코딩"</b>의 끝판왕이었다... 시간 내서 제대로 다시 만들 예정!
 
 ## 참고
 [추가적인 설명이 있는 블로그](https://y2sman.github.io/2021/04/25/2021_04_25/)
